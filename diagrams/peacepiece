@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T06:28:49.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="_RlHnNt5Jr8h3eWRXBxI" type="github"><diagram id="34iLYXaaJZlGDGBdi70z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-14T06:35:44.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3PYMoJ4KDW_x6JC82RdU" version="20.1.1" type="github">
+  <diagram id="34iLYXaaJZlGDGBdi70z" name="Page-1">
+    <mxGraphModel dx="766" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kVL-qF-i8D9OfraqMALq-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Navigation&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="15" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="100" />
+              <mxPoint x="550" y="170" />
+              <mxPoint x="390" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="100" />
+              <mxPoint x="550" y="170" />
+              <mxPoint x="470" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="100" />
+              <mxPoint x="550" y="170" />
+              <mxPoint x="630" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="100" />
+              <mxPoint x="550" y="170" />
+              <mxPoint x="710" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVL-qF-i8D9OfraqMALq-3" target="kVL-qF-i8D9OfraqMALq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-3" value="로그인 여부" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;소개&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;챌린지&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;스토리&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-11" value="O" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;내 프로필&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-13" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;챌린지&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-14" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;스토리&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-15" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;설정&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;로그아웃&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kVL-qF-i8D9OfraqMALq-22" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;로그인/회원가입&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
